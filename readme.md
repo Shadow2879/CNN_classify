@@ -1,0 +1,1 @@
+Finetuning a pretrained resnet model in order to classify MRI scans of Alzheimers patients.
